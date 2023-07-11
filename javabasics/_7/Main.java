@@ -15,7 +15,10 @@ public class Main {
      */
     private static void exercise1() {
         System.out.println("\nExercise 1:");
-        //Write your code here
+        String scrambledName = "eNrIcO";
+
+        System.out.println(scrambledName.toUpperCase());
+        System.out.println(scrambledName.toLowerCase());
     }
 
     /**
